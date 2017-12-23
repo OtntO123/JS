@@ -193,6 +193,7 @@ function myMove() {
     return false;
   }
   
+  
  function checkHeadinSnakebody() {
    for (i = 0, snakeBodyVolumn = snakeBody.length; i < snakeBodyVolumn; i++) {
      point = snakeBody[i];
